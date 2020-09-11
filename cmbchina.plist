@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://s3gw.cmbchina.com/s/L2xhMDhfMzlfcGtnZGVsaXZlci4xMS8lRTYlOEIlOUIlRTUlOTUlODYlRTklOTMlQjYlRTglQTElOEM4LjQuMF84LjQuMC4zXzIwMjAtMDktMTElMjAwMjo0NDowMl8wODUuaXBhP0FXU0FjY2Vzc0tleUlkPWxhMDguMzlfdXNlcjAxJkV4cGlyZXM9MTYwMTQ2MjU0OCZTaWduYXR1cmU9YWNPYnBOaEMxaWYlMkI1bFY3U0RESGp1M2JlVnclM0QmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1hdHRhY2htZW50JTNCZmlsZW5hbWUlM0QlMjVFNiUyNThCJTI1OUIlMjVFNSUyNTk1JTI1ODYlMjVFOSUyNTkzJTI1QjYlMjVFOCUyNUExJTI1OEM4LjQuMF84LjQuMC4zXzIwMjAtMDktMTElMjUyMDAyJTI1M0E0NCUyNTNBMDJfMDg1LmlwYQ==/oLchIqqTVg7b0tk1rzwcZ-fYXT4=/la08.39_user01/0</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string></string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string></string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.cmbchina.MPBBankD.ios8fix</string>
+				<key>bundle-version</key>
+				<string>2700</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>subtitle</key>
+				<string>内部测试</string>
+				<key>title</key>
+				<string>招商银行</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
